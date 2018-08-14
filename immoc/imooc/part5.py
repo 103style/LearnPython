@@ -31,9 +31,8 @@ else:
 
 ### for 循环语句
 
-for x in range(1,10):
+for x in range(1, 10):
     print(x)
-
 
 names = ['xiaoming', 'xiaohong', 'xiaowang', 'xiaoli']
 for name in names:
@@ -96,8 +95,7 @@ while x < 100:
         sum += x
 print('100以内的奇数和为：', sum)
 
-
 ## 多重循环
-for x in range(1,20):
-    for y in range(x+2,10):
-        print(x,'+',y,'=', x + y)
+for x in range(1, 20):
+    for y in range(x + 2, 10):
+        print(x, '+', y, '=', x + y)
