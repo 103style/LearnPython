@@ -23,4 +23,26 @@ print(list[-2])
 print(list[-3])
 
 # list 添加元素
+# append表示添加在末尾
+list.append('test')
+print(list)
+
+# insert(index,T)  插在第几个位置
+list.insert(2,'Sencond')
+print(list)
+
+# list 删除元素
+# pop() 删除最后一个元素
+list.pop()
+print(list)
+
+# pop(index) 删除第几个元素
+list.pop(2)
+print(list)
+
+# list 替换元素
+list[1] = 'Second'
+list[-1] = 'Last'
+print(list)
+
 
