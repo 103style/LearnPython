@@ -1,5 +1,5 @@
 # https://www.imooc.com/learn/177  第四章 学习
-# List和Tuple类型
+# List类型
 
 # 用[] 包起来的就是 list集合
 list =  ['Michael','Bob','Tarcy']
