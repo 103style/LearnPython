@@ -1,4 +1,4 @@
-# https://www.imooc.com/learn/177  第八章 学习
+# https://www.imooc.com/learn/177  第九章 学习
 
 # 迭代
 # 在Python中，如果给定一个list或tuple，我们可以通过for循环来遍历这个list或tuple，这种遍历我们成为迭代（Iteration）。
