@@ -11,7 +11,6 @@
 
 # -*- coding:UTF-8 -*-
 
-
 # input(prompt=None, /)
 # Read a string from standard input.The trailing newline is stripped.
 #
