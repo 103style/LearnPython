@@ -1,3 +1,5 @@
+# http://www.runoob.com/python/python-exercise-example10.html
+
 # 题目：暂停一秒输出，并格式化当前时间。
 
 import time
