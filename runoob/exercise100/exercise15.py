@@ -1,0 +1,17 @@
+# http://www.runoob.com/python/python-exercise-example15.html
+
+# 题目：利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。
+
+def getScore(score):
+    if score >= 90:
+        return  'A'
+    elif score>=60:
+        return 'B'
+    else:
+        return 'C'
+
+print(getScore(95))
+print(getScore(90))
+print(getScore(80))
+print(getScore(60))
+print(getScore(50))
