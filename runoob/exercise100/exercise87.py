@@ -17,3 +17,13 @@ a.x = 3
 a.c = 'a'
 f(a)
 print(a.x, a.c)
+
+
+def change(s = 0):
+    s+=1
+
+
+s = 10
+print(s)
+change(s)
+print(s)
